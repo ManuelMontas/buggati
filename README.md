@@ -1,0 +1,2 @@
+# buggati
+trata sobre buggatis
